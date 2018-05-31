@@ -2,9 +2,9 @@
 DRO AESMU LBYGX PYH TEWZC YFOB DRO VKJI NYQ YP MKOCKB KXN IYEB EXSAEO CYVEDSYX SC MLPMZNYWPQYL
 
 ## Solution
-Uses the script in tools.
+Uses the script.
 ```
-[root@8ec61c642185 ctfs]# ./tools/caesar_cipher.py "DRO AESMU LBYGX PYH TEWZC YFOB DRO VKJI NYQ YP MKOCKB KXN IYEB EXSAEO CYVEDSYX SC MLPMZNYWPQYL"
+[root@8ec61c642185 ctfs]# ./caesar_cipher.py
 esp bftnv mczhy qzi ufxad zgpc esp wlkj ozr zq nlpdlc lyo jzfc fytbfp dzwfetzy td nmqnaozxqrzm
 ftq cguow ndaiz raj vgybe ahqd ftq xmlk pas ar omqemd mzp kagd gzucgq eaxgfuaz ue onrobpayrsan
 gur dhvpx oebja sbk whzcf bire gur ynml qbt bs pnrfne naq lbhe havdhr fbyhgvba vf pospcqbzstbo
