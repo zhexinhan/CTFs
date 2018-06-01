@@ -1,9 +1,0 @@
-## Challenge
-84, 104, 101, 32, 115, 111, 108, 117, 116, 105, 111, 110, 32, 105, 115, 58, 32, 103, 109, 98, 114, 108, 98, 98, 101, 110, 97, 99, 97
-
-## Solution
-Uses the script.
-```
-[root@8ec61c642185 Encoding]# ./encoding_ascii.py 
-The solution is: gmbrlbbenaca
-```
