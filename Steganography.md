@@ -1,4 +1,6 @@
 # Steganography
+
+## Tricks
 * hexdump
     ```
     [root@9de0ec75d005 WeChall]# hexdump -h
@@ -20,3 +22,5 @@
     -v              display without squeezing similar lines
     -V              output version information and exit
     ```
+
+## Useful Links
