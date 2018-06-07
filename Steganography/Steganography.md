@@ -1,37 +1,20 @@
 - [Tricks](#tricks)
-- [Stegano 1](#stegano-1)
-    - [Challenge](#challenge)
-    - [Solution](#solution)
+- [WeChall](#wechall)
+    - [Stegano 1](#stegano-1)
+        - [Challenge](#challenge)
+        - [Solution](#solution)
 - [Useful Links](#useful-links)
 
 # Tricks
-* hexdump
-    ```
-    [root@9de0ec75d005 WeChall]# hexdump -h
+* `hexdump -C`
 
-    Usage:
-    hexdump [options] file...
-
-    Options:
-    -b              one-byte octal display
-    -c              one-byte character display
-    -C              canonical hex+ASCII display
-    -d              two-byte decimal display
-    -o              two-byte octal display
-    -x              two-byte hexadecimal display
-    -e format       format string to be used for displaying data
-    -f format_file  file that contains format strings
-    -n length       interpret only length bytes of input
-    -s offset       skip offset bytes from the beginning
-    -v              display without squeezing similar lines
-    -V              output version information and exit
-    ```
-
-# Stegano 1
-## Challenge
+# WeChall
+## Stegano 1
+### Challenge
+http://www.wechall.net/challenge/training/stegano1/index.php\
 Provides Stegano_1.bmp
 
-## Solution
+### Solution
 First, tried `file` and `identify` to get the information of this file.
 ```
 [root@9de0ec75d005 WeChall]# file Stegano_1.bmp 

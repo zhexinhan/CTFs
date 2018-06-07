@@ -1,5 +1,3 @@
 # CTFs
 * WeChall: http://www.wechall.net
-
-# Writeups
-* [WeChall](WeChall)
+* Net Force: https://www.net-force.nl
