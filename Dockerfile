@@ -35,5 +35,7 @@ RUN cd /root && \
     cd requests-* && \
     pip install .
 
+RUN pip install image python-magic numpy
+
 ENTRYPOINT ["/usr/bin/scl", "enable", "rh-ruby23", "--"]
 CMD ["/usr/bin/scl", "enable", "rh-ruby23", "--", "/bin/bash"]
